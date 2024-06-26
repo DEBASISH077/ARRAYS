@@ -9,6 +9,7 @@ public class ArrayCloning {
         System.out.println("------------------------------------------------------------------------------------------------------------------");
 
     //CLONING AN ARRAY WITHOUT CHANGING THE ELEMNTS OF THE MAIN ARRAY
+    
         int arr3[]= new int[arr1.length];
         //OR int arr3[]=arr1.clone();
         //OR int arr3[]=Arrays.copyOfRange(arr1,0,arr1.length);
