@@ -15,5 +15,6 @@ public class CheckSortedArray {
         System.out.println(Sorted(arr));
         int arr2[]={1,2,1,3,5,22};
         System.out.println(Sorted(arr2));
+
     }
 }
