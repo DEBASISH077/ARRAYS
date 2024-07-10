@@ -1,4 +1,5 @@
 public class PrefixSum {
+<<<<<<< HEAD
     public static void prefixSum(int arr[]){
         int temp=arr[0];
         for(int i=1;i<arr.length;i++){
@@ -21,4 +22,9 @@ public class PrefixSum {
         prefixSum(arr);
         print(arr);
             }
+=======
+    public static void main(String[] args) {
+        System.out.println("HELLO");
+    }
+>>>>>>> 9349b93a1f73961fb0f886e9d713d6decb0d85e3
 }

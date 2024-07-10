@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Array.iml" filepath="$PROJECT_DIR$/Array.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/ARRAYS(DSA).iml" filepath="$PROJECT_DIR$/ARRAYS(DSA).iml" />
+>>>>>>> 9349b93a1f73961fb0f886e9d713d6decb0d85e3
     </modules>
   </component>
 </project>
